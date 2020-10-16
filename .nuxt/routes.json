@@ -1,0 +1,16 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/phoenix/Desktop/nuxt-app/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_f9a89528"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/phoenix/Desktop/nuxt-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ba38df9e"
+  }
+]
